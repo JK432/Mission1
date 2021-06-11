@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\FULLSTACK WEB-DEV"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
